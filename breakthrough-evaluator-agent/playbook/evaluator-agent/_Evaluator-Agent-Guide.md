@@ -3,7 +3,7 @@ type: guide
 guide_family: playbook
 updated: YYYY-MM-DD
 ---
-<!-- seed: breakthrough-evaluator-agent playbook/evaluator-agent/_Evaluator-Agent-Guide.md v0.1.0 -->
+<!-- seed: breakthrough-evaluator-agent playbook/evaluator-agent/_Evaluator-Agent-Guide.md v1.0.0 -->
 
 # Evaluator Agent
 

@@ -6,7 +6,7 @@ confirmed_by_owner: false
 references: []
 tags: []
 ---
-<!-- seed: breakthrough-evaluator-agent playbook/evaluator-agent/evaluator-agent-playbook.md v0.1.0 -->
+<!-- seed: breakthrough-evaluator-agent playbook/evaluator-agent/evaluator-agent-playbook.md v1.0.0 -->
 
 # Playbook: send a judge that is not the author
 

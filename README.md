@@ -34,7 +34,7 @@ Read https://raw.githubusercontent.com/breakthrough-edu/breakthrough-evaluator-a
 
 ## Status
 
-v0.1.0, forming. Sentences marked `[untested]` in the playbook come from published research and have not yet been tried in your business. After your first real use, each one you exercised either loses the tag or gets rewritten.
+v1.0.0. Sentences marked `[untested]` in the playbook come from published research and have not yet been tried in your business. After your first real use, each one you exercised either loses the tag or gets rewritten.
 
 ## License
 
